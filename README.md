@@ -45,7 +45,7 @@ C --> D[nmap or Minecraft Client Connects]
 
 ### 1. Clone the Repo
 ```bash
-git clone https://github.com/yourusername/minecraft-server-iac.git
+git clone https://github.com/KyleWerstlein/cs312final.git
 cd minecraft-server-iac
 ```
 
